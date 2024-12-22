@@ -17,3 +17,5 @@
 2. Открыть класс CreditTests
 3. Слева от надписи public class CreditTests нажать на зеленую кнопку с галочкой play
 4. Нажать run "CreditTests"
+
+## 8-)
