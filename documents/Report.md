@@ -16,4 +16,3 @@
 
 
 ![Image alt](https://github.com/yakov233/diplom1/blob/main/Снимок%20экрана%202024-12-09%20093337.png)
-
